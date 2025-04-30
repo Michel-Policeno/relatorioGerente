@@ -1,0 +1,19 @@
+/* DetailedReport.css */
+.report-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  
+  .report-table th,
+  .report-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .report-table th {
+    background-color: #004080;
+    color: white;
+  }
+  
